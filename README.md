@@ -1,6 +1,4 @@
-To center the image in a GitHub `README.md` file, you can use HTML tags since Markdown alone doesn't support centering. Here's the updated version:  
 
----
 
 # John the Ripper  
 **John the Ripper** is one of the most popular tools in Kali Linux for performing brute force attacks. This repository provides the best and easiest way to get started with this powerful tool.  
